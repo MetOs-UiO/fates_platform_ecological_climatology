@@ -19,3 +19,9 @@ You can access the Jupyter server at `http://localhost:8888/lab`.
 > ```echo "HOST_USER=$(whoami)\nHOST_UID=$(id -u)\nHOST_GID=$(id -g)" > .env```
 >
 > Doing this makes all the new files and folders created by the app to belong to your local user. Otherwise, all new objects will be owned by the `root` user.
+
+
+# Survey
+
+Please fill in survey about your experience: 
+<https://forms.gle/qVNq37fz7dTrkgFm6>
